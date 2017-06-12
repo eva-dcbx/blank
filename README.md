@@ -2,6 +2,8 @@
 
 Remove all images from the internet
 
+![](https://i.imgur.com/nJAqJU1.jpg "New York Times Magazine")
+
 ## Instructions d'installation
 
 - Telecharger blank.crx
