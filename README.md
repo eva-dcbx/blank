@@ -6,7 +6,7 @@ Remove all images from the internet
 
 ## Instructions d'installation
 
-- Telecharger ![blank.crx](https://github.com/eva-dcbx/blank/raw/master/blank.crx)
+- Telecharger [blank.crx](https://github.com/eva-dcbx/blank/raw/master/blank.crx)
 - Sur Google Chrome, se rendre dans paramètres > extensions
 - Glisser puis déposer blank.crx pour procéder à l'installation
 - Accepter les autorisations
