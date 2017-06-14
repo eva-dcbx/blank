@@ -1,6 +1,6 @@
 # Blank
 
-Remove all images from the internet
+Remove all texts from the internet
 
 ![](https://i.imgur.com/nJAqJU1.jpg "New York Times Magazine")
 
